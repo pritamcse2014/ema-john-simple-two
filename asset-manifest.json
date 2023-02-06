@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ema-john-simple-two/static/css/main.8b21d916.css",
+    "main.js": "/ema-john-simple-two/static/js/main.412e0db3.js",
+    "static/js/787.5f5b42ea.chunk.js": "/ema-john-simple-two/static/js/787.5f5b42ea.chunk.js",
+    "static/media/Logo.svg": "/ema-john-simple-two/static/media/Logo.311dd846bc480af4fcd81826b6b793a8.svg",
+    "index.html": "/ema-john-simple-two/index.html",
+    "main.8b21d916.css.map": "/ema-john-simple-two/static/css/main.8b21d916.css.map",
+    "main.412e0db3.js.map": "/ema-john-simple-two/static/js/main.412e0db3.js.map",
+    "787.5f5b42ea.chunk.js.map": "/ema-john-simple-two/static/js/787.5f5b42ea.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b21d916.css",
+    "static/js/main.412e0db3.js"
+  ]
+}
